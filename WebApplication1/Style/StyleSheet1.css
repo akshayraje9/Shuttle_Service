@@ -1,0 +1,70 @@
+﻿
+
+.dvInput {
+    width: 72%;
+    float: left;
+    margin-left: 10px;
+}
+
+.txtInput {
+    font-size: 15px;
+    background-color: wheat;
+}
+
+.dvColumn {
+    width: 20%;
+    float: left;
+    text-align: right;
+}
+
+.txtColumn {
+    font-size: 15px;
+}
+
+.container {
+    width: 70%;
+    border-color: black;
+    background-color: white;
+    margin-left: 15px;
+    padding-bottom: 20px;
+}
+
+.dvContainer {
+    clear: both;
+    padding: 10px;
+}
+
+.error {
+    font-size: 15px;
+    color: red;
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .container {
+        width: 85%;
+        border-color: black;
+        background-color: white;
+        margin-left: 15px;
+        padding-bottom: 20px
+    }
+
+    .dvInput {
+        width: 70%;
+        float: none;
+        margin-left: 10px;
+    }
+
+    .dvColumn {
+        width: 50%;
+        float: left;
+        text-align: left;
+        margin-left: 10px;
+    }
+
+    .dvContainer {
+        clear: both;
+        padding: 5px;
+    }
+}

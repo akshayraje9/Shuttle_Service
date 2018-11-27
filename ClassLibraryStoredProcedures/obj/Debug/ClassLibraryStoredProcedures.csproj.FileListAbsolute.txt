@@ -1,0 +1,5 @@
+C:\Users\akshayraje\Desktop\WebApplication1\ClassLibraryStoredProcedures\bin\Debug\ClassLibraryStoredProcedures.dll
+C:\Users\akshayraje\Desktop\WebApplication1\ClassLibraryStoredProcedures\bin\Debug\ClassLibraryStoredProcedures.pdb
+C:\Users\akshayraje\Desktop\WebApplication1\ClassLibraryStoredProcedures\obj\Debug\ClassLibraryStoredProcedures.csprojResolveAssemblyReference.cache
+C:\Users\akshayraje\Desktop\WebApplication1\ClassLibraryStoredProcedures\obj\Debug\ClassLibraryStoredProcedures.dll
+C:\Users\akshayraje\Desktop\WebApplication1\ClassLibraryStoredProcedures\obj\Debug\ClassLibraryStoredProcedures.pdb

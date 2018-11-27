@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<shuttle>
+  <Customer>
+    <FirstName>Akshay</FirstName>
+    <LastName>Raje</LastName>
+    <DateOfBirth>1991-10-09</DateOfBirth>
+    <EmailID>asr@gmail.com</EmailID>
+    <Password>test</Password>
+    <Type>1</Type>
+  </Customer>
+  <Customer>
+    <FirstName>Gagan</FirstName>
+    <LastName>Kumar</LastName>
+    <DateOfBirth>1993-10-09</DateOfBirth>
+    <EmailID>gagan@gmail.com</EmailID>
+    <Password>gagan</Password>
+    <Type>2</Type>
+  </Customer>
+  <Customer>
+    <FirstName>Aaron</FirstName>
+    <LastName>Benjamin</LastName>
+    <DateOfBirth>1992-10-04</DateOfBirth>
+    <EmailID>aaron@gmail.com</EmailID>
+    <Password>test</Password>
+    <Type>1</Type>
+  </Customer> 
+  <Customer>
+    <FirstName>Marshall</FirstName>
+    <LastName>Jackson</LastName>
+    <DateOfBirth>1994-01-09</DateOfBirth>
+    <EmailID>ivan@gmail.com</EmailID>
+    <Password>hello</Password>
+    <Type>1</Type>
+  </Customer>
+  <Customer>
+    <FirstName>Tony</FirstName>
+    <LastName>Will</LastName>
+    <DateOfBirth>2000-10-09</DateOfBirth>
+    <EmailID>tony@hotmail.com</EmailID>
+    <Password>texas</Password>
+    <Type>2</Type>
+  </Customer>
+  <Customer>
+    <FirstName>Allan</FirstName>
+    <LastName>Sam</LastName>
+    <DateOfBirth>2018-10-09</DateOfBirth>
+    <EmailID>asr@gmail.com</EmailID>
+    <Password>hello</Password>
+    <Type>1</Type>
+  </Customer>
+
+</shuttle>

@@ -1,0 +1,31 @@
+﻿.container {
+    clear: both;
+    border-style: groove;
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    padding: 5px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.dvOuter {
+    clear: both;
+    padding: 10px;
+    margin: 15px;
+}
+
+.dvColumn {
+    width: 30%;
+    float: left;
+}
+
+.dvDisplay {
+    width: 65%;
+    float: left;
+}
+
+.error
+{
+    color:red;
+}
